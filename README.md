@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 David, David Land for friends
-Actually, a student
+- 🌱 I’m currently learning
