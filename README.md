@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 David, David Land for friends
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning React
