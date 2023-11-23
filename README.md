@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### David, David Land for friends
-- 🌱 I’m currently learning React and Python
+- 🌱 I’m currently learning web development and AI
