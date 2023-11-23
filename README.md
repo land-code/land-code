@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 #### David, David Land for friends
 - 🌱 I’m currently learning web development and AI
 ### Projects
-- ![Naria Chess](https://chess.naria.es)
-- ![Land shortener](https://land-short.vercel.app)
+- [Naria Chess](https://chess.naria.es)
+- [Land shortener](https://land-short.vercel.app)
