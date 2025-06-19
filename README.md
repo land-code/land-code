@@ -75,8 +75,6 @@ Liga de fútbol entre amigos con apuestas personalizadas (sin autenticación)
 ## 📫 Contact
 
 - GitHub: [@land-code](https://github.com/land-code)
-- LinkedIn: *(añádelo si quieres incluirlo)*
-- Email: *(opcional)*
 
 ---
 
